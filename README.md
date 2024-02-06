@@ -3,7 +3,7 @@ Beginner Web Application development partnering hair and weather data
 
 Table of Contents
 - [Introduction](#introduction)
-- [Page Overview](#Page Overview)
+- [Page Overview](#pageOverview)
 - [Improvements](#improvements)
 - [Installation](#installation)
 - [Contributing](#contributing)
